@@ -11,3 +11,9 @@ https://www.python.org/downloads/
 https://code.visualstudio.com/download
 
 # Install Python Extension in Vs code
+
+
+# 
+- intendation metters in Pyhton.
+- Python is a Dynamic Language
+- Python is a compiler language
